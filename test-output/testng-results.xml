@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27102" started-at="2020-02-27T21:18:10 PST" finished-at="2020-02-27T21:18:38 PST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27102" started-at="2020-02-27T21:18:10 PST" finished-at="2020-02-27T21:18:38 PST">
+      <class name="com.automationTasks.demoProject1.TestClass1">
+        <test-method status="PASS" signature="lauchDriver()[pri:0, instance:com.automationTasks.demoProject1.TestClass1@7f13d6e]" name="lauchDriver" is-config="true" duration-ms="6143" started-at="2020-02-27T21:18:10 PST" finished-at="2020-02-27T21:18:17 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchDriver -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.automationTasks.demoProject1.TestClass1@7f13d6e]" name="test1" duration-ms="3332" started-at="2020-02-27T21:18:17 PST" finished-at="2020-02-27T21:18:20 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.automationTasks.demoProject1.TestClass1@7f13d6e]" name="quit" is-config="true" duration-ms="869" started-at="2020-02-27T21:18:20 PST" finished-at="2020-02-27T21:18:21 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="lauchDriver()[pri:0, instance:com.automationTasks.demoProject1.TestClass1@7f13d6e]" name="lauchDriver" is-config="true" duration-ms="4090" started-at="2020-02-27T21:18:21 PST" finished-at="2020-02-27T21:18:25 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchDriver -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.automationTasks.demoProject1.TestClass1@7f13d6e]" name="test2" duration-ms="2446" started-at="2020-02-27T21:18:25 PST" finished-at="2020-02-27T21:18:27 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.automationTasks.demoProject1.TestClass1@7f13d6e]" name="quit" is-config="true" duration-ms="737" started-at="2020-02-27T21:18:27 PST" finished-at="2020-02-27T21:18:28 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="lauchDriver()[pri:0, instance:com.automationTasks.demoProject1.TestClass1@7f13d6e]" name="lauchDriver" is-config="true" duration-ms="4092" started-at="2020-02-27T21:18:28 PST" finished-at="2020-02-27T21:18:32 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchDriver -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.automationTasks.demoProject1.TestClass1@7f13d6e]" name="test3" duration-ms="4480" started-at="2020-02-27T21:18:32 PST" finished-at="2020-02-27T21:18:37 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.automationTasks.demoProject1.TestClass1@7f13d6e]" name="quit" is-config="true" duration-ms="823" started-at="2020-02-27T21:18:37 PST" finished-at="2020-02-27T21:18:38 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.automationTasks.demoProject1.TestClass1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
