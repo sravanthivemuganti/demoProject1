@@ -44,7 +44,7 @@ public class TestClass1 {
 		driver.navigate().to("https://www.google.com/");
 		System.out.println("Test 5 title is : "+ driver.getTitle());
 	}
-	
+
 	@AfterMethod
 	public void quit() {
 		driver.quit();      
