@@ -39,6 +39,11 @@ public class TestClass1 {
 		driver.navigate().to("https://www.google.com/");
 		System.out.println("Test 4 title is : "+ driver.getTitle());
 	}
+	@Test
+	public void test5() {
+		driver.navigate().to("https://www.google.com/");
+		System.out.println("Test 5 title is : "+ driver.getTitle());
+	}
 	
 	@AfterMethod
 	public void quit() {
